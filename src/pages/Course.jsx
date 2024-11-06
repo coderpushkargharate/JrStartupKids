@@ -14,6 +14,7 @@ const Course = () => {
         <h4>Course Title 2</h4>
         <p>Learn Web Development from scratch.</p>
       </div>
+      <h1>hellos</h1>
     </div>
   );
 };
